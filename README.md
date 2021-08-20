@@ -9,4 +9,4 @@
 
 #### DEMO and Social
 *  Video Demo - https://www.linkedin.com/posts/shashwat-pathak_flutter-application-android-activity-6834424939878187008-v1BR
-*  Profile - https://www.linkedin.com/in/shashwat-pathak/
+*  LinkedIN Profile - https://www.linkedin.com/in/shashwat-pathak/
