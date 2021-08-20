@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-//import 'package:dockapp/output_screen.dart';
-//import 'package:http/http.dart' as http;
 
 class k8s_Menu extends StatefulWidget {
   @override
@@ -10,7 +8,7 @@ class k8s_Menu extends StatefulWidget {
 class mainpage extends State<k8s_Menu> {
   var output_var; //this will hold and display the output
 
-  x() {}
+  NULL() {}
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -82,7 +80,7 @@ class mainpage extends State<k8s_Menu> {
                                     fontWeight: FontWeight.w700,
                                   ),
                                 ),
-                                onPressed: x),
+                                onPressed: NULL(),
                           ),
                           SizedBox(
                             height: 20,
@@ -101,7 +99,7 @@ class mainpage extends State<k8s_Menu> {
                                     fontWeight: FontWeight.w700,
                                   ),
                                 ),
-                                onPressed: x),
+                                onPressed: NULL(),
                           ),
                           SizedBox(
                             height: 20,
@@ -124,7 +122,7 @@ class mainpage extends State<k8s_Menu> {
                                 Navigator.push(
                                   context,
                                   MaterialPageRoute(
-                                    builder: (context) => x(),
+                                    builder: (context) => NULL(),
                                   ),
                                 );
                               },
@@ -151,7 +149,7 @@ class mainpage extends State<k8s_Menu> {
                                 Navigator.push(
                                   context,
                                   MaterialPageRoute(
-                                    builder: (context) => x(),
+                                    builder: (context) =>NULL(),
                                   ),
                                 );
                               },
@@ -178,7 +176,7 @@ class mainpage extends State<k8s_Menu> {
                                 Navigator.push(
                                   context,
                                   MaterialPageRoute(
-                                    builder: (context) => x(),
+                                    builder: (context) => NULL(),
                                   ),
                                 );
                               },
