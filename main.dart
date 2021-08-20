@@ -201,12 +201,7 @@ class mainpage extends State<main_menu> {
                                 ),
                               ),
                               onPressed: () {
-                                Navigator.push(
-                                  context,
-                                  MaterialPageRoute(
-                                    builder: (context) => rm_image(),
-                                  ),
-                                );
+                                
                               },
                             ),
                           ),
